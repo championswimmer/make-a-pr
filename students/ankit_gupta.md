@@ -1,0 +1,7 @@
+# ANKIT GUPTA
+
+## ACADEMICS
+undergrad at DTU
+
+## LANGUAGES
+C,C++, PYTHON
